@@ -3501,10 +3501,10 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="JP20" library="freetronics-jon" deviceset="M04" device="PTH" value="N17"/>
 <part name="JP21" library="freetronics-jon" deviceset="M04" device="PTH" value="N18"/>
 <part name="JP22" library="freetronics-jon" deviceset="M04" device="PTH" value="N19"/>
-<part name="JP23" library="freetronics-jon" deviceset="M04" device="PTH" value="N20"/>
-<part name="JP24" library="freetronics-jon" deviceset="M04" device="PTH" value="N21"/>
-<part name="JP25" library="freetronics-jon" deviceset="M04" device="PTH" value="N22"/>
-<part name="JP26" library="freetronics-jon" deviceset="M04" device="PTH" value="N23"/>
+<part name="JP23" library="freetronics-jon" deviceset="M04" device="PTH"/>
+<part name="JP24" library="freetronics-jon" deviceset="M04" device="PTH"/>
+<part name="JP25" library="freetronics-jon" deviceset="M04" device="PTH"/>
+<part name="JP26" library="freetronics-jon" deviceset="M04" device="PTH"/>
 <part name="Q2" library="freetronics-master-v1.1" deviceset="MOSFET-NCHANNEL" device="DPAK" value="NTD5867NLT4G"/>
 <part name="GND2" library="freetronics-original" deviceset="GND" device=""/>
 <part name="R1" library="freetronics-jon" deviceset="RESISTOR" device="0603" value="1K"/>
