@@ -1,6 +1,6 @@
 Feeder Shield Mega
 ==================
-Copyright 2018 Freetronics Pty Ltd  www.freetronics.com  
+Copyright 2018-2020 Freetronics Pty Ltd  www.freetronics.com  
 
 Pick and place feeder controller for DIY feeders. Compatible with the
 0816 feeders designed by MGRL:
@@ -16,6 +16,10 @@ Run the MGRL feeder control firmware.
 
 Adds an I2C display that can be used for reporting events and part
 counts.
+
+Uses 10-way IDC cables to connect batches of 4 feeders. Mates to the
+MGRL0816 Feeder Link board, which bridges across the 4-pin connections
+on 4 feeders mounted side by side.
 
 Features:
 
