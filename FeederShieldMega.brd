@@ -2342,13 +2342,11 @@ design rules under a new name.</description>
 <wire x1="33.02" y1="30.48" x2="31.75" y2="29.21" width="0.8128" layer="1"/>
 <wire x1="31.75" y1="29.21" x2="29.21" y2="29.21" width="0.8128" layer="1"/>
 <wire x1="29.21" y1="29.21" x2="27.94" y2="27.94" width="0.8128" layer="1"/>
-<wire x1="27.94" y1="27.94" x2="27.94" y2="26.67" width="0.8128" layer="1"/>
-<wire x1="27.94" y1="26.67" x2="27.94" y2="24.13" width="0.8128" layer="1"/>
+<wire x1="27.94" y1="27.94" x2="27.94" y2="24.13" width="0.8128" layer="1"/>
 <wire x1="27.94" y1="24.13" x2="27.94" y2="10.16" width="0.8128" layer="1"/>
 <wire x1="27.94" y1="10.16" x2="29.21" y2="8.89" width="0.8128" layer="1"/>
 <wire x1="31.75" y1="8.89" x2="33.02" y2="10.16" width="0.8128" layer="1"/>
 <wire x1="29.21" y1="8.89" x2="31.75" y2="8.89" width="0.8128" layer="1"/>
-<wire x1="27.686" y1="26.924" x2="27.94" y2="26.67" width="0.254" layer="1"/>
 <wire x1="21.59" y1="22.479" x2="21.59" y2="23.495" width="0.254" layer="1"/>
 <wire x1="21.59" y1="23.495" x2="22.225" y2="24.13" width="0.254" layer="1"/>
 <wire x1="22.225" y1="24.13" x2="27.94" y2="24.13" width="0.254" layer="1"/>
@@ -2361,46 +2359,6 @@ design rules under a new name.</description>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
-<errors>
-<approved hash="5,1,903dfce6072c964e"/>
-<approved hash="5,1,5eff9a61231e1a39"/>
-<approved hash="5,1,703d1c8f7545e44e"/>
-<approved hash="5,1,72ffe6799106f839"/>
-<approved hash="5,1,563d3afa9830094e"/>
-<approved hash="5,1,10ffa475b40afd39"/>
-<approved hash="5,16,4cfb866d9581ad48"/>
-<approved hash="5,16,8d7a9ce6cafb2938"/>
-<approved hash="5,16,12fbd872709e4848"/>
-<approved hash="5,16,4f7dbef557e8543f"/>
-<approved hash="5,16,6cfba6307bdc4348"/>
-<approved hash="5,16,517db0bb5ca64f3f"/>
-<approved hash="5,16,6efba5c4c728fe48"/>
-<approved hash="5,16,6f7d3f4fb8521a3f"/>
-<approved hash="5,16,4cfb87c92c251548"/>
-<approved hash="5,16,6d7d1d42035f813f"/>
-<approved hash="5,16,6cfba7fac016f948"/>
-<approved hash="5,16,6d7d5d0c2711e53f"/>
-<approved hash="5,16,4afb818f2d631448"/>
-<approved hash="5,16,0f7d1f00021de03f"/>
-<approved hash="5,16,8cfb4793b27f8b48"/>
-<approved hash="5,16,417d21149509073f"/>
-<approved hash="5,16,503d3d1820d2b04e"/>
-<approved hash="5,16,92f827937cec343e"/>
-<approved hash="5,16,0e3d6307c5cd554e"/>
-<approved hash="5,16,50ff0580e1ff4939"/>
-<approved hash="5,16,703d1d7312b9824e"/>
-<approved hash="5,16,76ff83fc0e830639"/>
-<approved hash="5,16,703d1d45ce8f5e4e"/>
-<approved hash="5,16,4eff0bceeab15239"/>
-<approved hash="5,16,723d1eb1727be34e"/>
-<approved hash="5,16,70ff843a0e450739"/>
-<approved hash="5,16,503d3cbc9976084e"/>
-<approved hash="5,16,72ffa637b5489c39"/>
-<approved hash="1,20,042feddfef840674"/>
-<approved hash="1,20,d22cd3dcd700d6f0"/>
-<approved hash="1,20,ea3456c457cfeb3f"/>
-<approved hash="1,20,e5f249027703dbf3"/>
-</errors>
 </board>
 </drawing>
 <compatibility>

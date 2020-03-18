@@ -5422,6 +5422,38 @@ Tactile switch, normally-open.</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="106,1,22.86,154.94,3V3,,,,,"/>
+<approved hash="106,1,22.86,134.62,A0,,,,,"/>
+<approved hash="106,1,22.86,132.08,A1,,,,,"/>
+<approved hash="106,1,22.86,129.54,A2,,,,,"/>
+<approved hash="106,1,22.86,127,A3,,,,,"/>
+<approved hash="106,1,22.86,124.46,A4,,,,,"/>
+<approved hash="106,1,22.86,121.92,A5,,,,,"/>
+<approved hash="106,1,22.86,119.38,A6,,,,,"/>
+<approved hash="106,1,22.86,116.84,A7,,,,,"/>
+<approved hash="106,1,22.86,106.68,A8,,,,,"/>
+<approved hash="106,1,22.86,104.14,A9,,,,,"/>
+<approved hash="106,1,22.86,101.6,A10,,,,,"/>
+<approved hash="106,1,22.86,99.06,A11,,,,,"/>
+<approved hash="106,1,22.86,96.52,A12,,,,,"/>
+<approved hash="106,1,22.86,93.98,A13,,,,,"/>
+<approved hash="106,1,22.86,91.44,A14,,,,,"/>
+<approved hash="106,1,226.06,167.64,AREF,,,,,"/>
+<approved hash="106,1,226.06,119.38,D0_RX,,,,,"/>
+<approved hash="106,1,226.06,121.92,D1_TX,,,,,"/>
+<approved hash="106,1,226.06,91.44,D20,,,,,"/>
+<approved hash="106,1,226.06,88.9,D21,,,,,"/>
+<approved hash="106,1,162.56,38.1,D28,,,,,"/>
+<approved hash="106,1,134.62,38.1,D29,,,,,"/>
+<approved hash="106,1,22.86,160.02,IOREF,,,,,"/>
+<approved hash="106,1,22.86,162.56,N$314,,,,,"/>
+<approved hash="106,1,22.86,144.78,VIN,,,,,"/>
+<approved hash="113,1,17.78,174.965,S1,,,,,"/>
+<approved hash="113,1,28.6173,75.9104,JP1,,,,,"/>
+<approved hash="113,1,222.843,76.4896,JP2,,,,,"/>
+<approved hash="113,1,193.717,141.95,JP27,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
